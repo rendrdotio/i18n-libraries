@@ -16,5 +16,11 @@
   },
   "footer": {
     "allRights": "Alle rechten voorbehouden (niet echt)"
+  },
+  "secondPage": {
+    "title": "De tweede pagina"
+  },
+  "secondPageLink": {
+    "text": "Bekijk de tweede pagina"
   }
 }

@@ -16,5 +16,11 @@
   },
   "footer": {
     "allRights": "All rights reserved (not really)"
+  },
+  "secondPage": {
+    "title": "The second page"
+  },
+  "secondPageLink": {
+    "text": "View the second page"
   }
 }
